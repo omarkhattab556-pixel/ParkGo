@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# OS files
+Thumbs.db
+
+# Vite specific
+.vite/
+
+# Optional: lock files (אם אתה לא רוצה לעקוב)
+# package-lock.json
+# yarn.lock
